@@ -6,7 +6,7 @@ const App = () => {
     return (
         <div className={'wrapper'}>
             <div className={'word'}>
-                yoda
+                yoda ->&nbsp;
             </div>
             <div className={'image'}></div>
         </div>
